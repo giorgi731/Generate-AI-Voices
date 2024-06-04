@@ -1,0 +1,56 @@
+{
+  "dashboardTabLabel": "Dashboard",
+  "organizationSettingsTabLabel": "Workspace",
+  "settingsTabLabel": "Settings",
+  "voiceMarketplaceTabLabel": "Voice Library",
+  "trainTabLabel": "Create AI Voice",
+  "masteringTabLabel": "AI Mastering",
+  "generateTabLabel": "Convert Voice",
+  "libraryTabLabel": "Audio History",
+  "modelTabLabel": "My AI Voices",
+  "profileSettingsTabLabel": "Profile",
+  "workspaceSettings": "Workspace Settings",
+  "subscriptionSettingsTabLabel": "Subscription",
+  "subscriptionAPIKeysTabLabel": "API Keys",
+  "inviteCollaborators": "Invite Collaborators",
+  "accountMembers": "Account Members",
+  "emailAddress": "Email Address",
+  "password": "Password",
+  "modalConfirmationQuestion": "Are you sure you want to continue?",
+  "imageInputLabel": "Click here to upload an image",
+  "userName": "User Name",
+  "cancel": "Cancel",
+  "backToHomePage": "Back to Home Page",
+  "genericServerError": "Sorry, something went wrong.",
+  "genericServerErrorHeading": "Sorry, something went wrong while processing your request. Please contact us if the issue persists.",
+  "pageNotFound": "Ops. Page not Found.",
+  "pageNotFoundSubHeading": "Apologies, the page you were looking for was not found",
+  "genericError": "Oooops. An error occurred",
+  "anonymousUser": "Anonymous",
+  "theme": "Theme",
+  "lightTheme": "Light",
+  "darkTheme": "Dark",
+  "systemTheme": "System",
+  "expandSidebar": "Expand Sidebar",
+  "collapseSidebar": "Collapse Sidebar",
+  "documentation": "Documentation",
+  "getStarted": "Get Started",
+  "retry": "Retry",
+  "contactUs": "Contact Us",
+  "loading": "Loading",
+  "genericErrorSubHeading": "Apologies, an error occurred while processing your request. Please contact us if the issue persists.",
+  "roles": {
+    "owner": {
+      "label": "Owner",
+      "description": "Can change any setting, invite new members and manage billing"
+    },
+    "admin": {
+      "label": "Admin",
+      "description": "Can change some settings, invite members, perform disruptive actions"
+    },
+    "member": {
+      "label": "Member",
+      "description": "Cannot invite members or change settings"
+    }
+  }
+}
